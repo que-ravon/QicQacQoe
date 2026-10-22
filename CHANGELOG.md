@@ -58,5 +58,5 @@ The game was originally built for the IonQ + Microsoft joint challenge at
 MIT iQuHACK 2022 (see `docs/iquhack-2022-instructions.md`) and later reworked
 for modern Qiskit (2.x primitives, `if_test` classical control, AerSimulator).
 
-[Unreleased]: https://github.com/namangoyal-work/QicQacQoe/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/namangoyal-work/QicQacQoe/releases/tag/v1.0.0
+[Unreleased]: https://github.com/que-ravon/QicQacQoe/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/que-ravon/QicQacQoe/releases/tag/v1.0.0

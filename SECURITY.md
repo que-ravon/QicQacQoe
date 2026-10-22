@@ -10,7 +10,7 @@
 ## Reporting a vulnerability
 
 Please report security issues privately via
-[GitHub private vulnerability reporting](https://github.com/namangoyal-work/QicQacQoe/security/advisories/new)
+[GitHub private vulnerability reporting](https://github.com/que-ravon/QicQacQoe/security/advisories/new)
 rather than opening a public issue. You can expect an acknowledgement within a
 week. Please include reproduction steps; a `--seed` value and a `--log` JSON
 file make reports exactly reproducible.

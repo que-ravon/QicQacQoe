@@ -7,7 +7,7 @@ good pull request looks like here.
 ## Development setup
 
 ```bash
-git clone https://github.com/namangoyal-work/QicQacQoe.git
+git clone https://github.com/que-ravon/QicQacQoe.git
 cd QicQacQoe
 python3 -m venv .venv
 source .venv/bin/activate
