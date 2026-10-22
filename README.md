@@ -2,7 +2,7 @@
 
 **Tic Tac Toe, except every square is a real (simulated) qubit.**
 
-[![CI](https://github.com/namangoyal-work/QicQacQoe/actions/workflows/ci.yml/badge.svg)](https://github.com/namangoyal-work/QicQacQoe/actions/workflows/ci.yml)
+[![CI](https://github.com/que-ravon/QicQacQoe/actions/workflows/ci.yml/badge.svg)](https://github.com/que-ravon/QicQacQoe/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
 [![Qiskit](https://img.shields.io/badge/built%20on-Qiskit%20%2B%20Aer-6929c4.svg)](https://www.ibm.com/quantum/qiskit)
@@ -24,7 +24,7 @@ mirror; **the circuit is the ground truth.**
 ## Install and play
 
 ```bash
-git clone https://github.com/namangoyal-work/QicQacQoe.git
+git clone https://github.com/que-ravon/QicQacQoe.git
 cd QicQacQoe
 python3 -m venv .venv && source .venv/bin/activate
 pip install .

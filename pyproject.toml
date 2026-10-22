@@ -35,9 +35,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/namangoyal-work/QicQacQoe"
-Issues = "https://github.com/namangoyal-work/QicQacQoe/issues"
-Changelog = "https://github.com/namangoyal-work/QicQacQoe/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/que-ravon/QicQacQoe"
+Issues = "https://github.com/que-ravon/QicQacQoe/issues"
+Changelog = "https://github.com/que-ravon/QicQacQoe/blob/main/CHANGELOG.md"
 
 [project.scripts]
 qicqacqoe = "qicqacqoe.game:main"
